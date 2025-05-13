@@ -8,6 +8,31 @@ h1 {
     color: blueviolet;
 }
 
+/* Pontos usados para selecionar uma classe */
 .paragrafos-estilizados {
     color: chocolate;
+}
+
+/* Dois elementos e uma regra */
+p,
+span {
+    color: darkgreen;
+}
+
+#testando-padding {
+    background-color: magenta;
+    padding: 20px;
+}
+
+#testando-margin {
+    background-color: brown;
+    margin: 20px;
+}
+
+#borda {
+    border: 3px solid red;
+}
+
+body {
+    padding-bottom: 500px;
 }
