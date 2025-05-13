@@ -1,3 +1,13 @@
 h1 {
     color: red;
 }
+
+
+/* Hastag usada para selecionar um id */
+#nome-daniel {
+    color: blueviolet;
+}
+
+.paragrafos-estilizados {
+    color: chocolate;
+}
